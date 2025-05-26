@@ -46,3 +46,8 @@ If used, it should be limited to non-sensitive projects or sandboxed coding envi
 
 > **Status:** Needs Full Assessment  
 > **Requires:** DPA, Privacy Impact Review, Technical Security Questionnaire
+
+
+### 📊 Visual Summary
+
+![Risk Score Bar Chart](../visuals/github-copilot-risk-score-bar-chart.png)
